@@ -147,7 +147,7 @@ faltou o **push**. Se vê no seu fork no GitHub mas não há Pull Request, falto
 
 ## 7. Problemas comuns
 
-- **"Fiz tudo, mas o professor não vê nada."** Você provavelmente parou no commit local. Rode
+- **"Fiz tudo, mas a professora não vê nada."** Você provavelmente parou no commit local. Rode
   `git push` e depois abra o Pull Request.
 - **"Meu arquivo de áudio foi recusado."** Acima de 25 MB, use a linha de comando (Caminho B).
   O limite pelo terminal é 100 MB.
@@ -155,5 +155,5 @@ faltou o **push**. Se vê no seu fork no GitHub mas não há Pull Request, falto
   `emanueles/dc-idc` (o hub do site) por engano — o repositório certo deste semestre é
   `emanueles/dc-idc-2026.1`. Feche o PR errado e abra um novo garantindo que a **base** é
   `emanueles/dc-idc-2026.1`.
-- **"Aparece 'conflito' no Pull Request."** Avise a equipe e o professor; normalmente resolve-se
+- **"Aparece 'conflito' no Pull Request."** Avise à equipe e à professora; normalmente resolve-se
   atualizando o fork antes de reenviar.
