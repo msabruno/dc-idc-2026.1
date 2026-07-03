@@ -1,25 +1,32 @@
 ---
-title: Título do Post                     # <- Altere o título
-description: Breve descrição da postagem  # <- Altere a descrição
-slug: equipe16-temaprincipal            # <- Altere temaprincipal, mantenha o prefixo equipe16-
-date: 2026-01-01 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo
-image: cover.jpg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta)
+title: Liberdade Terceirizada             
+description: IA e apps de trabalho: liberdade na propaganda, controle na prática.
+slug: equipe16-colapsodaverdade           
+date: 2026-07-03 13:29:00+0000           
+image: cover.jpeg                         
 categories:
-    - Post                                # <- Deixe como está
+    - Post                                
 tags:
-    - Tema do Vídeo                       # <- Altere para o tema do vídeo
-    - Tema do Podcast                     # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha
-weight: 1                                 # <- Deixe como está
-draft: true                               # <- IMPORTANTE: troque para false (ou apague esta linha) quando a postagem estiver pronta para publicar
+    - Inteligência Artificial                       
+    - Uberização                     
+weight: 1                                 
 ---
 
-**Autores**: Nome 1, Nome 2 e Nome 3.
+**Autores**: [Bruno Mário](https://www.instagram.com/_brnom/), [Gael Pimentel](https://www.instagram.com/_gael.pimentel/) e [Rudah Lelis](https://www.instagram.com/rudahsanti/).
 
-<!--
-Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
-no repositório do site (emanueles/dc-idc).
--->
 
-{{< youtube "ID_DO_VIDEO" >}}
+## A SERVIÇO DE QUEM?
 
-{{< audio "nome-do-arquivo.mp3" >}}
+Vídeo e podcast de divulgação científica sobre como sistemas tecnológicos prometem liberdade e ajuda, mas transferem carga e controle para quem está na ponta.
+ 
+## O COLAPSO DA VERDADE
+
+A inteligência artificial generativa e sua falta de compromisso com a verdade — os "papagaios estocásticos".
+
+{{< youtube "aPOqwdk-uuM" >}}
+
+## UBERIZAÇÃO
+
+A uberização — precarização do trabalho sob a retórica da "parceria" e das cooperativas de plataforma como alternativa.
+
+{{< audio "PodcastFinal.mp3" >}}
